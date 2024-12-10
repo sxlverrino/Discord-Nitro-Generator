@@ -33,3 +33,4 @@ Simple Usage
 Custom Thread
 Send Nitro Codes To The Webhook
 `
+![image](https://github.com/user-attachments/assets/6501068f-bedc-412b-82e6-4f618058441c)
